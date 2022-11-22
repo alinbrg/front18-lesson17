@@ -1,0 +1,31 @@
+.navbar-li {
+	/* font-size: 30px; */
+	background-color: darkblue;
+	list-style: georgian;
+}
+
+.navbar-li a {
+	color: white;
+	text-decoration: none;
+}
+
+.header {
+	background-color: darkmagenta;
+}
+
+section {
+	height: 200px;
+	background-color: aqua;
+}
+
+.section-bg {
+	background-color: brown;
+}
+.countries {
+	background-color: transparent;
+	border: 1px solid red;
+	height: unset;
+}
+.card img {
+	width: 100px;
+}
